@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luuuu-1103
-- 👀 I’m interested in web development and blockchain
+- 👀 I’m interested in full stack development and blockchain
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
